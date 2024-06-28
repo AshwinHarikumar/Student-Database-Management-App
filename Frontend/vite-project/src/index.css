@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+HomePage{
+    background-color: rgb(49, 200, 200);
+}
